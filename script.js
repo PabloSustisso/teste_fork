@@ -37,6 +37,13 @@ const hotelData = [
     rate: 5,
   },
   {
+    local: "Pato Branco",
+    name: "Hotel Flamingo",
+    src: "https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg?",
+    pricing: 1200.0,
+    rate: 3.2,
+  },
+  {
     local: "Lençois Maranhenses",
     name: "Hotel Noite Feliz",
     src: "./assets/pexels-thorsten-technoman-338504.jpg",
